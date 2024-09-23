@@ -259,4 +259,4 @@ We Are Unhappy To See You Go, You Can Give Your Feedback By Putting A Comment On
 `pip uninstall crazytext`
 
 #### Contributor
-[Abhay Parashar](https://github.com/Abhayparashar31).
+[Yash Sharma](https://github.com/YashSharma91).
